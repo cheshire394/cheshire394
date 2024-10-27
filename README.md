@@ -7,8 +7,8 @@ I'm an aspiring full-stack developer currently studying **Web Application Develo
 - 🌱 I’m currently learning ... deeper concepts in web development, backend programming, and database management.
 - 👯 I’m looking to collaborate on ... open-source projects or any opportunities to enhance my practical experience.
 - 🤔 I’m looking for help with ... improving my coding best practices and learning new technologies.
-- 💬 Ask me about ... Java, JavaScript, PHP, or web development basics.
-- 📫 How to reach me: ... [Your email or social media link]
+- 💬 Ask me about ... Java, JavaScript, PHP, frameworks like Vue.js, SQL.
+- 📫 How to reach me: ... alicia.dsc94@gmail.com or www.linkedin.com/in/alicia-del-saz-cotallo-0260071a2
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm fluent in Spanish and have an intermediate level of English!
 
