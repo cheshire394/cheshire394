@@ -17,7 +17,6 @@ Siempre había sentido mucha curiosidad por el mundo de la programación, y fina
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 
-<br>
 
 ### Backend y Bases de Datos
 
@@ -36,11 +35,28 @@ Siempre había sentido mucha curiosidad por el mundo de la programación, y fina
 <br>
 [![SSH](https://img.shields.io/badge/SSH-4A90E2?style=for-the-badge&logo=ssh&logoColor=white&labelColor=101010)]()
 
-<br>
 
 ### Sistemas Operativos 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-EC1C24?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
+
+
+
+## Contacto
+
+enlaces de contácto: 
+-  [![Email](https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicia.dsc94@gmail.com)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciadelsazcotallo)
+-  [![Teléfono](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34650448257)
+
+  Si prefieres anótarlos: 
+- **Correo Electrónico**: [alicia.dsc94@gmail.com](mailto:alicia.dsc94@gmail.com)
+- **LinkedIn**: [aliciadelsazcotallo](https://www.linkedin.com/in/aliciadelsazcotallo)
+- **Teléfono**: [+34 650 44 82 57](tel:+34650448257)
+
+  
+
+
 
 
 
