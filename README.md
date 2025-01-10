@@ -45,13 +45,9 @@ Siempre había sentido mucha curiosidad por el mundo de la programación, y fina
 ## Contacto
 
 enlaces de contácto: 
--  [![Email](https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicia.dsc94@gmail.com)
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciadelsazcotallo)
--  [![Teléfono](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34650448257)
 
-  Si prefieres anótarlos: 
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciadelsazcotallo)
 - **Correo Electrónico**: [alicia.dsc94@gmail.com](mailto:alicia.dsc94@gmail.com)
-- **LinkedIn**: [aliciadelsazcotallo](https://www.linkedin.com/in/aliciadelsazcotallo)
 - **Teléfono**: [+34 650 44 82 57](tel:+34650448257)
 
   
