@@ -1,7 +1,8 @@
 
 # !Bienvenid@ a mi pérfil, mi nombre es Alicia del Saz Cotallo 👋
 ### Desarrolladora de aplicaciones web 
-![https://github.com/cheshire394](https://raw.githubusercontent.com/cheshire394/cheshire394/main/Barnner.png)
+![Mi banner](./Banner.png)
+
 
 I'm an aspiring full-stack developer currently studying **Web Application Development (DAW)**. I'm passionate about learning and improving my programming skills, and I love working on web projects.
 
