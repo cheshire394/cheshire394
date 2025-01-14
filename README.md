@@ -1,5 +1,5 @@
 
-# !Bienvenid@ a mi pérfil, mi nombre es Alicia del Saz Cotallo 👋
+# Bienvenid@ a mi pérfil, mi nombre es Alicia del Saz Cotallo 👋
 ### Desarrolladora de aplicaciones web 
 ![Mi banner](./Banner.png)
 
