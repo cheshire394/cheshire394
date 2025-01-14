@@ -1,11 +1,12 @@
 
-# Bienvenid@ a mi pérfil, mi nombre es Alicia del Saz Cotallo 👋
+# Bienvenid@ a mi pérfil, mi nombre es Alicia 👋
 ### Desarrolladora de aplicaciones web 
 ![Mi banner](./Banner.png)
 
 Siempre había sentido mucha curiosidad por el mundo de la programación, y finalmente me aventuré a dar este giro profesional, en el cuál tengo muchas ganas de aprender y de evolucionar.
+En este perfil puedes encontrar mis porfolio con mis proyectos personales, y también ejercicios de lógica utilizando diferentes tecnologías.
 
- 🇬🇧 I have an intermediate level of English, I practice English daily!
+🇬🇧 I have an intermediate level of English, I practice English daily! I watch series and movies, I read English books and practice speaking with another person.
 
  ### Tecnologías
 
