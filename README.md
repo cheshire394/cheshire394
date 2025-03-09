@@ -42,6 +42,24 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-EC1C24?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 
 
+### APLICACIONES CREADAS 🚀
+
+## procesador de textos (🟨💻 JavaScript Developer):
+
+Una ‬‭tienda‬‭ especializada‬‭ en‬‭ productos ‬‭de ‬‭Harry‬‭Potter‬‭,‬ ‭desea‬‭ agregar ‬‭una‬‭ nueva ‬‭funcionalidad ‬‭a‬‭ su‬ página web.‬
+C‭uando ‬‭u n‬‭cliente ‬‭compra‬‭ un‬‭ producto,‬‭puede ‬‭elegir ‬‭la‬‭ opción ‬‭de‬‭ escribir ‬‭una ‬‭carta ‬‭a ‬‭la‬‭ persona ‬‭que‬ ‭va destinada el regalo.
+La carta deberá incluir la temática de la saga Harry Potter.‬
+‭El‬ ‭cliente‬ ‭podrá ‬‭elegir,‬‭entre‬‭ numerosas ‬‭opciones,‬‭el ‬‭fondo‬‭ que‬‭ más‬‭ le ‬‭guste ‬‭para ‬‭la ‬‭carta,‬‭además‬
+trendrá la opción de elegir entre tres estilos de letra: negrita, cursiva y subrayado.‬
+‭En ‬‭cualquier ‬‭momento ‬‭el ‬‭cliente ‬‭puede‬‭ guardar‬‭ la ‬‭carta ‬‭en ‬‭su ‬‭navegador,‬‭y ‬‭continuar ‬‭completando‬ ‭la carta cuando este más inspirado.‬
+‭Finalmente,‬ ‭el‬ ‭cliente‬ ‭podrá‬ ‭descargar‬ ‭la‬ ‭carta‬ ‭personalizada‬ ‭en‬ ‭formato‬ ‭pdf‬ ‭cuando‬ ‭este‬ ‭completada,‬ ‭y‬ ‭adicionalmente‬ ‭podrá‬ ‭hacerlo‬ ‭en‬ ‭formato‬ ‭texto‬ ‭plano‬ 
+‭con‬ ‭el‬ ‭objetivo‬ ‭de‬ ‭que‬ ‭otras‬ ‭personas‬ ‭puedan‬ ‭añadir‬ ‭más‬ ‭contenido‬ ‭a‬ ‭la‬ ‭carta‬ ‭desde‬ ‭otros‬ ‭ordenadores‬ ‭y‬ ‭añadirlo‬ ‭antes‬ ‭de‬ ‭descargar en formato Pdf.‬
+
+[Enlace a la web](https://cheshire394.github.io/procesadorTexto.github.io/)
+
+[Enlace al código fuente del procesador](https://github.com/cheshire394/procesadorTexto.github.io)
+
+
 
 ## Contacto
 
