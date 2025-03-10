@@ -42,7 +42,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-EC1C24?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 
 
-### APLICACIONES CREADAS 🚀
+### APLICACIONES DESTACADAS! 🚀
 
 ## procesador de textos (🟨💻 JavaScript Developer):
 
@@ -59,7 +59,33 @@ trendrá la opción de elegir entre tres estilos de letra: negrita, cursiva y su
 
 [Enlace al código fuente del procesador](https://github.com/cheshire394/procesadorTexto.github.io)
 
+---
+## Gimnasio de Artes Marciales 🥋💥
 
+![gimnasio](./gimnasio.png)
+
+
+Esta aplicación web está diseñada para optimizar la administración de tu gimnasio, usando MySQL, PHP, y poquito de JavaScript y CSS. Con ella, podrás gestionar fácilmente tanto a tus socios como a las clases y monitores. 
+
+Características destacadas:
+
+   👥 Gestión de Socios: Agrega, elimina y modifica los datos de tus socios rápidamente.
+   <br>
+   🥊 Clases y Tarifas: Los socios pueden apuntarse o desapuntarse de las clases de acuerdo con sus tarifas, con limitaciones automáticas. ¡No tendrás que preocuparte de que los socios asistan a clases que no forman parte de su tarifa!
+   <br>
+   🥋 Administración de Clases: Añade nuevas clases, elimina las que ya no quieras impartir y elimina una disciplinas cuando consideres necesario.
+   <br>
+    Gestión de Monitores: Los monitores no se pueden modificar ni añadir/eliminar, pero sus condiciones de horarios y salarios se ajustan automáticamente al modificar las clases que imparten. 
+
+Tecnologías utilizadas:
+
+   Backend: PHP 🟪 , MySQL 🐬🟧
+   <br>
+   Frontend: JavaScript 🟨, CSS (para una interfaz atractiva)
+
+[Enlace a la web](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
+
+[Enlace al código fuente]()
 
 ## Contacto
 
