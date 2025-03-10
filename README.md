@@ -55,6 +55,8 @@ trendrá la opción de elegir entre tres estilos de letra: negrita, cursiva y su
 ‭Finalmente,‬ ‭el‬ ‭cliente‬ ‭podrá‬ ‭descargar‬ ‭la‬ ‭carta‬ ‭personalizada‬ ‭en‬ ‭formato‬ ‭pdf‬ ‭cuando‬ ‭este‬ ‭completada,‬ ‭y‬ ‭adicionalmente‬ ‭podrá‬ ‭hacerlo‬ ‭en‬ ‭formato‬ ‭texto‬ ‭plano‬ 
 ‭con‬ ‭el‬ ‭objetivo‬ ‭de‬ ‭que‬ ‭otras‬ ‭personas‬ ‭puedan‬ ‭añadir‬ ‭más‬ ‭contenido‬ ‭a‬ ‭la‬ ‭carta‬ ‭desde‬ ‭otros‬ ‭ordenadores‬ ‭y‬ ‭añadirlo‬ ‭antes‬ ‭de‬ ‭descargar en formato Pdf.‬
 
+![procesador](./procesador.png)
+
 [Enlace a la web](https://cheshire394.github.io/procesadorTexto.github.io/)
 
 [Enlace al código fuente del procesador](https://github.com/cheshire394/procesadorTexto.github.io)
@@ -62,10 +64,9 @@ trendrá la opción de elegir entre tres estilos de letra: negrita, cursiva y su
 ---
 ## Gimnasio de Artes Marciales 🥋💥
 
-![gimnasio](./gimnasio.png)
-
-
 Esta aplicación web está diseñada para optimizar la administración de tu gimnasio, usando MySQL, PHP, y poquito de JavaScript y CSS. Con ella, podrás gestionar fácilmente tanto a tus socios como a las clases y monitores. 
+
+![gimnasio](./gimnasio.png)
 
 Características destacadas:
 
