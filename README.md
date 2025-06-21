@@ -44,6 +44,29 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ### APLICACIONES DESTACADAS! 🚀
 
+## Software de gestión para clinicas dentales: 
+
+OdontixCloud, es un software dental que aún continua en desarrollo, con el objetivo de llegar a convertirse en un software comercial cuando este complamente implementado.
+Esta desarrollado con Java, Spring Boot y Hibernete en el backend, y con typeScript y Astro de lado del cliente. 
+Actualmente es mi proyecto personal, más destacable, en la el cuál he implementado ciertas carencias que otros software de la competencia presentan. 
+
+El objetivo principal de odontixCloud es "ser utilizado el menor tiempo posible por parte de los usuarios", es decir, mejorar el eficiencia del personal sanitario,
+para lograr este objetivo, se ha pensado en todo momento, en la necesidades clínicas más hábituales, y  el acceso inmediato a cualquier información que el personal sanitario
+pueda intuitivamete necesitar. 
+
+Por ejemplo, tiene sentido, que  desde la propia agenda, podamos acceder rápidamente, a la historia clinica del paciente que estamos atendiendo, podamos conocer sus patologias, alergias o medicaciones
+en modo de advertencias, o podamos registrar un pago. 
+
+El código fuente de esta aplicación no es público y sólo esta disponible bajo petición de las empresas que esten interesados en que forme parte de su equipo. 
+
+![odontixCloudPanel](./odontixCloudPanel.png)
+![odontixCloudAgenda](./odontixCloudAgeda.png)
+![odontixCloudHC](./odontixCloudHC.png)
+
+
+
+
+
 ## procesador de textos (🟨💻 JavaScript Developer):
 
 Una ‬‭tienda‬‭ especializada‬‭ en‬‭ productos ‬‭de ‬‭Harry‬‭Potter‬‭,‬ ‭desea‬‭ agregar ‬‭una‬‭ nueva ‬‭funcionalidad ‬‭a‬‭ su‬ página web.‬
