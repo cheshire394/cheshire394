@@ -24,7 +24,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ### Backend y Bases de Datos
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
 <br>
@@ -37,7 +37,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 ### Despliegue de aplicaciones
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 <br>
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 <br>
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
 <br>
