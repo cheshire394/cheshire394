@@ -81,14 +81,15 @@ Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de 
 
 |      Capa      |              Tecnologías                    |
 |----------------|---------------------------------------------|
-| Backend        |  🟥 Java · 🟩 Spring Boot ·⬜ Hibernate     |
-| Frontend       |  🟦  TypeScript · CSS                       |
+| Backend        |  🟥 Java  🟩 Spring Boot  ⬜ Hibernate      |
+| Frontend       |  🟦  TypeScript CSS                         |
 | Base de datos  |  🟧  MySQL 🐬                               |
 
 <br>
-El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.
 
 📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
+
+El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://youtu.be/qIfocXeVw5c)
 
