@@ -67,19 +67,23 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 OdontixCloud, es un software dental que aún continua en desarrollo, con el objetivo de llegar a convertirse en un software comercial cuando este complamente implementado.
 Esta desarrollado con Java, Spring Boot y Hibernete en el backend, y con typeScript y Astro de lado del cliente. 
 
+<br>
 
 Actualmente es mi proyecto personal, más destacable, en la el cuál he implementado ciertas carencias que otros software de la competencia presentan. 
 
+<br>
 El objetivo principal de odontixCloud es "ser utilizado el menor tiempo posible", es decir, mejorar el eficiencia del personal sanitario,
 para lograr este objetivo, se ha pensado en todo momento, en la necesidades clínicas más hábituales, y  el acceso inmediato a cualquier información que el personal sanitario
 pueda previsiblemente necesitar. 
+<br>
 
 Por ejemplo, tiene sentido, que  desde la propia agenda, podamos acceder rápidamente, a la historia clinica del paciente que estamos atendiendo, podamos conocer sus patologias, alergias o medicaciones
 en modo de advertencias, o podamos registrar un pago. 
+<br>
 
 El código fuente de esta aplicación no es público y sólo esta disponible bajo petición de las empresas que esten interesados en que forme parte de su equipo. 
 
-📽️ **Demo en vídeo de OdontixCloud**:
+📽️ **Demo en vídeo de OdontixCloud** (click en la imágen):
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://www.youtube.com/watch?v=tu_codigo)
 
