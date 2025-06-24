@@ -18,6 +18,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
+<br>
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 
 
@@ -26,7 +27,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
-
+<br>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 <br>
 [![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
@@ -35,6 +36,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ### Despliegue de aplicaciones
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+<br>
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 <br>
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
@@ -43,10 +45,12 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ## Autentificación
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=101010)]()
+<br>
 [![SSH](https://img.shields.io/badge/SSH-4A90E2?style=for-the-badge&logo=ssh&logoColor=white&labelColor=101010)]()
 
 <br>
 ### Sistemas Operativos 
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-EC1C24?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
 
