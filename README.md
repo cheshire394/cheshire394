@@ -8,7 +8,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 🇬🇧 I have an intermediate level of English, I practice English daily! I watch series and movies, I read English books and practice speaking with another person.
 
- ### Tecnologías
+ ### Tecnologías 
 
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -67,9 +67,11 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ## Software de gestión para clinicas dentales 🦷
 
-OdontixCloud es un software dental en desarrollo, cuyo objetivo es convertirse en una solución comercial una vez que su implementación esté completamente finalizada. Actualmente, representa mi proyecto personal más destacado, en el cual he abordado diversas carencias que he detectado en otros programas de la competencia.
+OdontixCloud es un software dental en desarrollo, cuyo objetivo es convertirse en una solución comercial una vez que su implementación esté completamente finalizada.
+Actualmente, representa mi proyecto personal más destacado, en el cual he abordado diversas carencias que he detectado en otros programas de la competencia.
 
-El principal propósito de OdontixCloud es minimizar el tiempo de uso por parte del personal sanitario, es decir, optimizar al máximo su eficiencia. Para alcanzar esta meta, el diseño del sistema se ha basado en las necesidades clínicas más habituales y en garantizar un acceso inmediato a la información relevante que el equipo sanitario pueda necesitar durante su jornada.
+El principal propósito de OdontixCloud es minimizar el tiempo de uso por parte del personal sanitario, es decir, optimizar al máximo su eficiencia. 
+Para alcanzar esta meta, el diseño del sistema se ha basado en las necesidades clínicas más habituales y en garantizar un acceso inmediato a la información relevante que el equipo sanitario pueda necesitar durante su jornada.
 
 Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de forma directa a la historia clínica del paciente que se está atendiendo, visualizar alertas sobre patologías, alergias o medicación, e incluso registrar pagos, todo desde una misma interfaz ágil y funcional.
 
@@ -90,31 +92,24 @@ Tecnologías utilizadas:
   
 
 
-## procesador de textos (🟨💻 JavaScript Developer):
+## procesador de textos Harry Potter (🟨💻 JavaScript Developer):
 
-Nueva funcionalidad para la página web de la tienda especializada en productos de Harry Potter
 
-Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda.
+Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda de regalos de Harry Potter.
 
-Descripción de la funcionalidad
+# Descripción de la funcionalidad
 Cuando un cliente realiza la compra de un producto, tendrá la opción de redactar una carta personalizada dirigida a la persona destinataria del regalo. Esta carta estará inspirada en la temática de la saga Harry Potter, aportando un toque mágico y especial acorde con el universo de la tienda.
 
-Opciones de personalización
+# Opciones de personalización
 Selección de fondo: El cliente podrá elegir entre una amplia variedad de fondos con motivos de Harry Potter para decorar la carta, permitiendo que la presentación sea única y atractiva.
 
-Estilos de texto: Para dar mayor libertad creativa, la carta podrá ser editada con tres estilos tipográficos diferentes:
-
-Negrita
-
-Cursiva
-
-Subrayado
+Estilos de texto: Para dar mayor libertad creativa, la carta podrá ser editada con tres estilos tipográficos diferentes: negrita, cursiva y subrayado
 Esto facilitará destacar las partes más importantes del mensaje y personalizar el diseño del texto.
 
-Guardado y edición progresiva
-El cliente podrá guardar la carta en el navegador en cualquier momento mediante almacenamiento local (localStorage o IndexedDB), permitiendo continuar con la edición cuando desee, sin perder el contenido previamente escrito. Esto facilita la escritura creativa y asegura que la carta quede completa y perfecta antes de la descarga final.
+# Guardado y edición progresiva
+El cliente podrá guardar la carta en el navegador en cualquier momento mediante almacenamiento local (localStorage), permitiendo continuar con la edición cuando desee, sin perder el contenido previamente escrito. Esto facilita la escritura creativa y asegura que la carta quede completa y perfecta antes de la descarga final.
 
-Descarga y formatos disponibles
+# Descarga y formatos disponibles
 Una vez que la carta esté finalizada, el cliente tendrá la opción de descargarla en dos formatos:
 
 Formato PDF: Para una presentación formal y adecuada para impresión o envío digital.
