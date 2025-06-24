@@ -68,13 +68,15 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 ## Software de gestión para clinicas dentales 🦷
 
 OdontixCloud es un software dental en desarrollo, cuyo objetivo es convertirse en una solución comercial una vez que su implementación esté completamente finalizada.
+<br>
 Actualmente, representa mi proyecto personal más destacado, en el cual he abordado diversas carencias que he detectado en otros programas de la competencia.
-
+<br>
 El principal propósito de OdontixCloud es minimizar el tiempo de uso por parte del personal sanitario, es decir, optimizar al máximo su eficiencia. 
+<br>
 Para alcanzar esta meta, el diseño del sistema se ha basado en las necesidades clínicas más habituales y en garantizar un acceso inmediato a la información relevante que el equipo sanitario pueda necesitar durante su jornada.
-
+<br>
 Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de forma directa a la historia clínica del paciente que se está atendiendo, visualizar alertas sobre patologías, alergias o medicación, e incluso registrar pagos, todo desde una misma interfaz ágil y funcional.
-
+<br>
 El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.
 
 📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
@@ -92,29 +94,41 @@ Tecnologías utilizadas:
   
 
 
-## procesador de textos Harry Potter (🟨💻 JavaScript Developer):
-
+# Procesador de textos Harry Potter (🟨💻 JavaScript Developer)
 
 Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda de regalos de Harry Potter.
 
-# Descripción de la funcionalidad
+---
+
+#### Descripción de la funcionalidad
+
 Cuando un cliente realiza la compra de un producto, tendrá la opción de redactar una carta personalizada dirigida a la persona destinataria del regalo. Esta carta estará inspirada en la temática de la saga Harry Potter, aportando un toque mágico y especial acorde con el universo de la tienda.
 
-# Opciones de personalización
-Selección de fondo: El cliente podrá elegir entre una amplia variedad de fondos con motivos de Harry Potter para decorar la carta, permitiendo que la presentación sea única y atractiva.
+---
 
-Estilos de texto: Para dar mayor libertad creativa, la carta podrá ser editada con tres estilos tipográficos diferentes: negrita, cursiva y subrayado
-Esto facilitará destacar las partes más importantes del mensaje y personalizar el diseño del texto.
+#### Opciones de personalización
 
-# Guardado y edición progresiva
-El cliente podrá guardar la carta en el navegador en cualquier momento mediante almacenamiento local (localStorage), permitiendo continuar con la edición cuando desee, sin perder el contenido previamente escrito. Esto facilita la escritura creativa y asegura que la carta quede completa y perfecta antes de la descarga final.
+- **Selección de fondo:** El cliente podrá elegir entre una amplia variedad de fondos con motivos de Harry Potter para decorar la carta, permitiendo que la presentación sea única y atractiva.
 
-# Descarga y formatos disponibles
+- **Estilos de texto:** Para dar mayor libertad creativa, la carta podrá ser editada con tres estilos tipográficos diferentes: **negrita**, *cursiva* y <u>subrayado</u>.  
+  Esto facilitará destacar las partes más importantes del mensaje y personalizar el diseño del texto.
+
+---
+
+#### 💾 Guardado y edición progresiva
+
+El cliente podrá guardar la carta en el navegador en cualquier momento mediante almacenamiento local (`localStorage`), permitiendo continuar con la edición cuando desee, sin perder el contenido previamente escrito. Esto facilita la escritura creativa y asegura que la carta quede completa y perfecta antes de la descarga final.
+
+---
+
+#### 📥 Descarga y formatos disponibles
+
 Una vez que la carta esté finalizada, el cliente tendrá la opción de descargarla en dos formatos:
 
-Formato PDF: Para una presentación formal y adecuada para impresión o envío digital.
+1. **Formato PDF:** Para una presentación formal y adecuada para impresión o envío digital.
 
-Formato texto plano: Para facilitar la edición colaborativa desde otros dispositivos. Este formato permitirá que otras personas puedan añadir contenido o modificar la carta desde diferentes ordenadores antes de generar la versión final en PDF.
+2. **Formato texto plano:** Para facilitar la edición colaborativa desde otros dispositivos. Este formato permitirá que otras personas puedan añadir contenido o modificar la carta desde diferentes ordenadores antes de generar la versión final en PDF.
+
 
 ![procesador](./procesador.png)
 
