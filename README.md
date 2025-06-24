@@ -67,6 +67,8 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ## Software de gestión para clinicas dentales 🦷
 
+#### Descripción de la funcionalidad
+
 OdontixCloud es un software dental en desarrollo, cuyo objetivo es convertirse en una solución comercial una vez que su implementación esté completamente finalizada.
 <br>
 Actualmente, representa mi proyecto personal más destacado, en el cual he abordado diversas carencias que he detectado en otros programas de la competencia.
@@ -109,7 +111,7 @@ Cuando un cliente realiza la compra de un producto, tendrá la opción de redact
 
 
 
-#### Opciones de personalización
+#### 🎨 Opciones de personalización
 
 - **Selección de fondo:** El cliente podrá elegir entre una amplia variedad de fondos con motivos de Harry Potter para decorar la carta, permitiendo que la presentación sea única y atractiva.
 
@@ -132,14 +134,16 @@ Una vez que la carta esté finalizada, el cliente tendrá la opción de descarga
 
 2. **Formato texto plano:** Para facilitar la edición colaborativa desde otros dispositivos. Este formato permitirá que otras personas puedan añadir contenido o modificar la carta desde diferentes ordenadores antes de generar la versión final en PDF.
 
-
-![procesador](./procesador.png)
-
 #### 🌐 Acceso al Procesador de Texto Harry Potter
 
 - [🔗 **Visita la aplicación web**](https://cheshire394.github.io/procesadorTexto.github.io/)
 
 - [📂 **Código fuente del procesador en GitHub**](https://github.com/cheshire394/procesadorTexto.github.io)
+
+
+
+![procesador](./procesador.png)
+
 
 
 ---
@@ -151,7 +155,7 @@ Esta aplicación web está diseñada para optimizar la administración de tu gim
 
 
 
-#### Características destacadas:
+#### Descripción de la funcionalidad
 
    👥 Gestión de Socios: Agrega, elimina y modifica los datos de tus socios rápidamente.
    <br>
