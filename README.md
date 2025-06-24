@@ -99,7 +99,7 @@ El código fuente de OdontixCloud no es público y sólo está disponible previa
   
 
 
-## Procesador de textos Harry Potter (🟨 JavaScript)
+## Procesador de textos Harry Potter 🧙‍♂️✨
 
 ![procesador](./procesador.png)
 
@@ -137,6 +137,9 @@ Una vez que la carta esté finalizada, el cliente tendrá la opción de descarga
 1. **Formato PDF:** Para una presentación formal y adecuada para impresión o envío digital.
 
 2. **Formato texto plano:** Para facilitar la edición colaborativa desde otros dispositivos. Este formato permitirá que otras personas puedan añadir contenido o modificar la carta desde diferentes ordenadores antes de generar la versión final en PDF.
+
+#### 💻 Tecnologías Utilizadas
+🟨 JavaScript y 🟦 CSS
 
 #### 🌐 Acceso al Procesador de Texto Harry Potter
 
