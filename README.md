@@ -88,7 +88,7 @@ El código fuente de esta aplicación no es público y sólo esta disponible baj
 
 📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
 
-[![Ver vídeo de OdontixCloud](odontixCloud.png)](https://www.youtube.com/watch?v=tu_codigo)
+[![Ver vídeo de OdontixCloud](odontixCloud.png)](https://youtu.be/qIfocXeVw5c)
 
 Tecnologías utilizadas:
 
