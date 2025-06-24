@@ -8,7 +8,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 🇬🇧 I have an intermediate level of English, I practice English daily! I watch series and movies, I read English books and practice speaking with another person.
 
- ### Tecnologías 
+ # Tecnologías 
 
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -63,7 +63,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 <br>
 
-### APLICACIONES DESTACADAS! 🚀
+# APLICACIONES DESTACADAS! 🚀
 
 ## Software de gestión para clinicas dentales 🦷
 
@@ -94,17 +94,17 @@ Tecnologías utilizadas:
   
 
 
-# Procesador de textos Harry Potter (🟨💻 JavaScript Developer)
+## Procesador de textos Harry Potter (🟨💻 JavaScript Developer)
 
 Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda de regalos de Harry Potter.
 
----
+
 
 #### Descripción de la funcionalidad
 
 Cuando un cliente realiza la compra de un producto, tendrá la opción de redactar una carta personalizada dirigida a la persona destinataria del regalo. Esta carta estará inspirada en la temática de la saga Harry Potter, aportando un toque mágico y especial acorde con el universo de la tienda.
 
----
+
 
 #### Opciones de personalización
 
@@ -113,13 +113,13 @@ Cuando un cliente realiza la compra de un producto, tendrá la opción de redact
 - **Estilos de texto:** Para dar mayor libertad creativa, la carta podrá ser editada con tres estilos tipográficos diferentes: **negrita**, *cursiva* y <u>subrayado</u>.  
   Esto facilitará destacar las partes más importantes del mensaje y personalizar el diseño del texto.
 
----
+
 
 #### 💾 Guardado y edición progresiva
 
 El cliente podrá guardar la carta en el navegador en cualquier momento mediante almacenamiento local (`localStorage`), permitiendo continuar con la edición cuando desee, sin perder el contenido previamente escrito. Esto facilita la escritura creativa y asegura que la carta quede completa y perfecta antes de la descarga final.
 
----
+
 
 #### 📥 Descarga y formatos disponibles
 
