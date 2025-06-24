@@ -83,7 +83,7 @@ en modo de advertencias, o podamos registrar un pago.
 
 El código fuente de esta aplicación no es público y sólo esta disponible bajo petición de las empresas que esten interesados en que forme parte de su equipo. 
 
-📽️ **Demo en vídeo de OdontixCloud** (click en la imágen):
+📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://www.youtube.com/watch?v=tu_codigo)
 
