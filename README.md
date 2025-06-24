@@ -91,7 +91,7 @@ Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de 
 
 📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
 
-**El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.**
+El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://youtu.be/qIfocXeVw5c)
 
@@ -103,7 +103,9 @@ Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de 
 
 ![procesador](./procesador.png)
 
-Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda de regalos de Harry Potter.
+**Nueva funcionalidad para la página web de la tienda especializada en productos de Harry Potter**
+
+Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda.
 
 
 
