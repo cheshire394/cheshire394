@@ -59,12 +59,8 @@ en modo de advertencias, o podamos registrar un pago.
 
 El código fuente de esta aplicación no es público y sólo esta disponible bajo petición de las empresas que esten interesados en que forme parte de su equipo. 
 
-![odontixCloudPanel](./odontixCloudPanel.png)
-![odontixCloudAgenda](./odontixCloudAgeda.png)
-![odontixCloudHC](./odontixCloudHC.png)
-
-
-
+📽️ **Demo en vídeo**:  
+[Haz clic aquí para ver el vídeo de OdontixCloud](./git_video4.mp4)
 
 
 ## procesador de textos (🟨💻 JavaScript Developer):
