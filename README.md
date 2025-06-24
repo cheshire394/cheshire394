@@ -48,7 +48,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 <br>
 
 
-## Autentificación
+### Autentificación
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=101010)]()
 <br>
 [![SSH](https://img.shields.io/badge/SSH-4A90E2?style=for-the-badge&logo=ssh&logoColor=white&labelColor=101010)]()
@@ -91,7 +91,7 @@ Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de 
 
 📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
 
-El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.
+**El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.**
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://youtu.be/qIfocXeVw5c)
 
@@ -100,6 +100,8 @@ El código fuente de OdontixCloud no es público y sólo está disponible previa
 
 
 ## Procesador de textos Harry Potter (🟨 JavaScript)
+
+![procesador](./procesador.png)
 
 Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda de regalos de Harry Potter.
 
@@ -142,7 +144,7 @@ Una vez que la carta esté finalizada, el cliente tendrá la opción de descarga
 
 
 
-![procesador](./procesador.png)
+
 
 
 
