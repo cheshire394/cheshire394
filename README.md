@@ -77,20 +77,22 @@ Para alcanzar esta meta, el diseño del sistema se ha basado en las necesidades 
 <br>
 Por ejemplo, resulta fundamental que desde la propia agenda se pueda acceder de forma directa a la historia clínica del paciente que se está atendiendo, visualizar alertas sobre patologías, alergias o medicación, e incluso registrar pagos, todo desde una misma interfaz ágil y funcional.
 <br>
+#### 💻 Tecnologías Utilizadas
+
+|      Capa      |              Tecnologías                    |
+|----------------|---------------------------------------------|
+| Backend        |  🟥 Java · 🟩 Spring Boot ·⬜ Hibernate     |
+| Frontend       |  🟦  TypeScript · CSS                       |
+| Base de datos  |  🟧  MySQL 🐬                               |
+
+<br>
 El código fuente de OdontixCloud no es público y sólo está disponible previa solicitud por parte de empresas interesadas en contar con mi colaboración en su equipo de desarrollo.
 
 📽️ **Demo en vídeo de OdontixCloud** (click en la imágen para acceder a la demo):
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://youtu.be/qIfocXeVw5c)
 
-Tecnologías utilizadas:
 
-   Backend:  🟥 Java  🟩 Spring Boot  ⬜ Hibernete
-   <br>
-   Frontend: 🟦 TypeScript y CSS 
-   <br>
-   Base de datos: 🐬🟧 MySQL 
-   <br>
   
 
 
@@ -157,12 +159,6 @@ Esta aplicación web está diseñada para optimizar la administración de tu gim
    🥋 Administración de Clases: Añade nuevas clases, elimina las que ya no quieras impartir y elimina una disciplinas cuando consideres necesario.
    <br>
     Gestión de Monitores: Los monitores no se pueden modificar ni añadir/eliminar, pero sus condiciones de horarios y salarios se ajustan automáticamente al modificar las clases que imparten. 
-
-#### 🌐 Acceso a la aplicación
-
-- [🔗 **Visita la aplicación web**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
-
-- [📂 **Código fuente en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
   
 
 #### 💻 Tecnologías utilizadas:
@@ -173,9 +169,13 @@ Esta aplicación web está diseñada para optimizar la administración de tu gim
 | Base de datos|       🐬🟧 MySQL        |
 | Frontend     |  🟨 JavaScript  🟦 CSS  |
 
+#### 🌐 Acceso a la aplicación
+
+- [🔗 **Visita la aplicación web**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
+
+- [📂 **Código fuente en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
 
 
-   
 
 
 ## Contacto
