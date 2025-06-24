@@ -37,13 +37,9 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 ### Despliegue de aplicaciones
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 <br>
-
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
-
-
-<br>
-
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
+<br>
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 
 <br>
 
