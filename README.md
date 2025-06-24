@@ -62,7 +62,7 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 ### APLICACIONES DESTACADAS! 🚀
 
-## Software de gestión para clinicas dentales: 
+## Software de gestión para clinicas dentales 🦷
 
 OdontixCloud, es un software dental que aún continua en desarrollo, con el objetivo de llegar a convertirse en un software comercial cuando este complamente implementado.
 Esta desarrollado con Java, Spring Boot y Hibernete en el backend, y con typeScript y Astro de lado del cliente. 
