@@ -156,13 +156,12 @@ Características destacadas:
    <br>
     Gestión de Monitores: Los monitores no se pueden modificar ni añadir/eliminar, pero sus condiciones de horarios y salarios se ajustan automáticamente al modificar las clases que imparten. 
 
-Tecnologías utilizadas:
+| Capa         | Tecnología              |
+|--------------|-------------------------|
+| Backend      | 🟪 PHP                  |
+| Base de datos| 🐬🟧 MySQL              |
+| Frontend     | 🟨 JavaScript, 🟦 CSS  |
 
-   Backend: 🟪 PHP
-   <br>
-   base de datos: 🐬🟧 MySQL 
-   <br>
-   Frontend: 🟨 JavaScript 🟦 CSS
    
 #### 🌐 Acceso a la aplicación
 
