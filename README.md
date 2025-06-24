@@ -144,7 +144,12 @@ Una vez que la carta esté finalizada, el cliente tendrá la opción de descarga
 
 Esta aplicación web está diseñada para optimizar la administración de tu gimnasio, usando MySQL, PHP, y poquito de JavaScript y CSS. Con ella, podrás gestionar fácilmente tanto a tus socios como a las clases y monitores. 
 
-![gimnasio](./gimnasio.png)
+#### 🌐 Acceso a la aplicación
+
+- [🔗 **Visita la aplicación web**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
+
+- [📂 **Código fuente en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
+
 
 Características destacadas:
 
@@ -156,18 +161,18 @@ Características destacadas:
    <br>
     Gestión de Monitores: Los monitores no se pueden modificar ni añadir/eliminar, pero sus condiciones de horarios y salarios se ajustan automáticamente al modificar las clases que imparten. 
 
-| Capa         | Tecnología              |
+Tecnologías utilizadas:
+
+|     Capa     |       Tecnología        |
 |--------------|-------------------------|
-| Backend      | 🟪 PHP                  |
-| Base de datos| 🐬🟧 MySQL              |
-| Frontend     | 🟨 JavaScript, 🟦 CSS  |
+| Backend      |         🟪 PHP          |
+| Base de datos|       🐬🟧 MySQL        |
+| Frontend     |  🟨 JavaScript  🟦 CSS  |
+
+![gimnasio](./gimnasio.png)
 
    
-#### 🌐 Acceso a la aplicación
 
-- [🔗 **Visita la aplicación web**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
-
-- [📂 **Código fuente en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
 
 ## Contacto
 
