@@ -87,6 +87,16 @@ El código fuente de esta aplicación no es público y sólo esta disponible baj
 
 [![Ver vídeo de OdontixCloud](odontixCloud.png)](https://www.youtube.com/watch?v=tu_codigo)
 
+Tecnologías utilizadas:
+
+   Backend:  🟥 JAVA  🟩 Spring Boot  ⬜ Hibernete
+   <br>
+   Frontend: 🟦 TypeScript y CSS 
+   <br>
+   Base de datos: 🐬🟧 MySQL 
+   <br>
+  
+
 
 ## procesador de textos (🟨💻 JavaScript Developer):
 
@@ -124,9 +134,11 @@ Características destacadas:
 
 Tecnologías utilizadas:
 
-   Backend: PHP 🟪 , MySQL 🐬🟧
+   Backend: 🟪 PHP
    <br>
-   Frontend: JavaScript 🟨, CSS (para una interfaz atractiva)
+   base de datos: 🐬🟧 MySQL 
+   <br>
+   Frontend: 🟨 JavaScript 🟦 CSS
    
 [Enlace a la web](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
 
