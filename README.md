@@ -140,9 +140,9 @@ Una vez que la carta esté finalizada, el cliente tendrá la opción de descarga
 
 #### 🌐 Acceso al Procesador de Texto Harry Potter
 
-- [🔗 **Visita la aplicación web**](https://cheshire394.github.io/procesadorTexto.github.io/)
+- [🔗 **Visita la aplicación web procesador de textos de Harry Potter**](https://cheshire394.github.io/procesadorTexto.github.io/)
 
-- [📂 **Código fuente del procesador en GitHub**](https://github.com/cheshire394/procesadorTexto.github.io)
+- [📂 **Código fuente del procesador de textos de Harry Potter en GitHub**](https://github.com/cheshire394/procesadorTexto.github.io)
 
 
 
@@ -180,9 +180,9 @@ Esta aplicación web está diseñada para optimizar la administración de tu gim
 
 #### 🌐 Acceso a la aplicación
 
-- [🔗 **Visita la aplicación web**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
+- [🔗 **Visita la aplicación web gimnasio de Artes Marciales**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
 
-- [📂 **Código fuente en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
+- [📂 **Código fuente gimnasio de Artes Marciales en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
 
 
 
