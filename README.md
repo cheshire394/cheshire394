@@ -15,13 +15,18 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
+[![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 
 
 ### Backend y Bases de Datos
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 <br>
 [![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
@@ -34,9 +39,13 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 <br>
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
 <br>
+
+
+## Autentificación
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=101010)]()
 [![SSH](https://img.shields.io/badge/SSH-4A90E2?style=for-the-badge&logo=ssh&logoColor=white&labelColor=101010)]()
 
-
+<br>
 ### Sistemas Operativos 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-EC1C24?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
@@ -48,19 +57,22 @@ En este perfil puedes encontrar mis porfolio con mis proyectos personales, y tam
 
 OdontixCloud, es un software dental que aún continua en desarrollo, con el objetivo de llegar a convertirse en un software comercial cuando este complamente implementado.
 Esta desarrollado con Java, Spring Boot y Hibernete en el backend, y con typeScript y Astro de lado del cliente. 
+
+
 Actualmente es mi proyecto personal, más destacable, en la el cuál he implementado ciertas carencias que otros software de la competencia presentan. 
 
-El objetivo principal de odontixCloud es "ser utilizado el menor tiempo posible por parte de los usuarios", es decir, mejorar el eficiencia del personal sanitario,
+El objetivo principal de odontixCloud es "ser utilizado el menor tiempo posible", es decir, mejorar el eficiencia del personal sanitario,
 para lograr este objetivo, se ha pensado en todo momento, en la necesidades clínicas más hábituales, y  el acceso inmediato a cualquier información que el personal sanitario
-pueda intuitivamete necesitar. 
+pueda previsiblemente necesitar. 
 
 Por ejemplo, tiene sentido, que  desde la propia agenda, podamos acceder rápidamente, a la historia clinica del paciente que estamos atendiendo, podamos conocer sus patologias, alergias o medicaciones
 en modo de advertencias, o podamos registrar un pago. 
 
 El código fuente de esta aplicación no es público y sólo esta disponible bajo petición de las empresas que esten interesados en que forme parte de su equipo. 
 
-📽️ **Demo en vídeo**:  
-[Haz clic aquí para ver el vídeo de OdontixCloud](./git_video4.mp4)
+📽️ **Demo en vídeo de OdontixCloud**:
+
+[![Ver vídeo de OdontixCloud](odontixCloud.png)](https://www.youtube.com/watch?v=tu_codigo)
 
 
 ## procesador de textos (🟨💻 JavaScript Developer):
