@@ -85,7 +85,7 @@ El código fuente de OdontixCloud no es público y sólo está disponible previa
 
 Tecnologías utilizadas:
 
-   Backend:  🟥 JAVA  🟩 Spring Boot  ⬜ Hibernete
+   Backend:  🟥 Java  🟩 Spring Boot  ⬜ Hibernete
    <br>
    Frontend: 🟦 TypeScript y CSS 
    <br>
@@ -94,7 +94,7 @@ Tecnologías utilizadas:
   
 
 
-## Procesador de textos Harry Potter (🟨💻 JavaScript Developer)
+## Procesador de textos Harry Potter (🟨 JavaScript)
 
 Con el objetivo de mejorar la experiencia de compra y ofrecer un valor añadido a nuestros clientes, se implementará una nueva funcionalidad que permitirá a los usuarios personalizar cartas para acompañar los regalos adquiridos en la tienda de regalos de Harry Potter.
 
@@ -132,9 +132,12 @@ Una vez que la carta esté finalizada, el cliente tendrá la opción de descarga
 
 ![procesador](./procesador.png)
 
-[Enlace a la web](https://cheshire394.github.io/procesadorTexto.github.io/)
+#### 🌐 Acceso al Procesador de Texto Harry Potter
 
-[Enlace al código fuente del procesador](https://github.com/cheshire394/procesadorTexto.github.io)
+- [🔗 **Visita la aplicación web**](https://cheshire394.github.io/procesadorTexto.github.io/)
+
+- [📂 **Código fuente del procesador en GitHub**](https://github.com/cheshire394/procesadorTexto.github.io)
+
 
 ---
 ## Gimnasio de Artes Marciales 🥋💥
@@ -161,9 +164,11 @@ Tecnologías utilizadas:
    <br>
    Frontend: 🟨 JavaScript 🟦 CSS
    
-[Enlace a la web](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
+#### 🌐 Acceso a la aplicación
 
-[Enlace al código fuente](https://github.com/cheshire394/proyecto_gym_MVC)
+- [🔗 **Visita la aplicación web**](http://gimnasioproyectophp.infinityfreeapp.com/proyecto_gym_MVC/view/index.php)
+
+- [📂 **Código fuente en GitHub**](https://github.com/cheshire394/proyecto_gym_MVC)
 
 ## Contacto
 
