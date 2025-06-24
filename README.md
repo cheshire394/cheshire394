@@ -193,11 +193,10 @@ Esta aplicación web está diseñada para optimizar la administración de tu gim
 ## Contacto
 
 enlaces de contácto: 
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciadelsazcotallo)
   
 - **Correo Electrónico**: [alicia.dsc94@gmail.com](mailto:alicia.dsc94@gmail.com)
 - **Teléfono**: [+34 650 44 82 57](tel:+34650448257)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciadelsazcotallo)
 
   
 
